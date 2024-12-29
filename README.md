@@ -1,4 +1,4 @@
-# Pizza Sales Analysis - SQl
+# Pizza Sales Analysis - SQL
 ## About the Project:
 This project analyzes pizza sales data using PostgreSQL to extract insights on sales volume, financial performance, and customer preferences. The goal is to provide actionable insights for inventory management, pricing strategies, and business optimization.
 
