@@ -25,8 +25,9 @@ Total Orders and Revenue: Retrieved total orders and calculated revenue from piz
 - Time-based analysis optimized staffing and operational planning.
 - Revenue contributions and cumulative revenue trends informed strategic business decisions.
 - 
-Outputs
+## Outputs :
 Visualizations and SQL queries showcasing order trends, revenue analysis, and customer preferences.
 Actionable insights on inventory management, peak demand periods, and menu optimization.
+
 # Conclusion:
 The analysis provided a clear understanding of sales trends, customer preferences, and revenue growth. These insights can guide inventory management, optimize menu offerings, and enhance operational efficiency.
